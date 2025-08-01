@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Entraide | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/entraide/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Monique Guillemin-Soler, présidente d&#8217;ENTRAID&#8217; PARDON</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/06/30/monique-guillemin-soler-presidente-dentraidpardon/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/06/30/monique-guillemin-soler-presidente-dentraidpardon/#comments</comments>
+		<pubDate>Sat, 29 Jun 2013 23:20:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Entraide]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[Spiritualité]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=1781</guid>
+		<description><![CDATA[Un elfe au cœur pur, aux yeux pétillants, d’une infinie bonté et belle de toutes ses expériences de vie. Partager un moment avec Monique, c’est faire entrer dans son âme une source de lumière. Et elle a ce talent magique de rendre chaque être extraordinaire !]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/06/30/monique-guillemin-soler-presidente-dentraidpardon/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

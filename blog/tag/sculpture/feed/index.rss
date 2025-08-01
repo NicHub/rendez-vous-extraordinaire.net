@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sculpture | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/sculpture/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Julie Tilmant, sculptrice</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/04/04/julie-tilmant/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/04/04/julie-tilmant/#comments</comments>
+		<pubDate>Thu, 04 Apr 2013 18:27:50 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Artiste]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Sculpture]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=636</guid>
+		<description><![CDATA[Difficile de choisir, entre mon cher et tendre, le plus extraordinaire de tous, mes amies si chères à mon coeur...
+Je vais donc choisir une personne que je découvre depuis peu, même si nous faisons partie de la même famille, ma cousine Julie. Parce qu'elle a tout de l'extraordinaire : scientifique de formation, elle est en fait une artiste accomplie. Parce qu'elle a eu le courage de refaire sa vie et de choisir le bonheur. Parce qu'elle ne renonce pas, et que sa persévérance fait qu'aujourd'hui nous devenons de plus en plus proches à mon grand bonheur. Parce que ses sculptures sont tellement belles et pleines d'âme ! Parce que je suis certaine d'en apprendre un peu plus sur elle grâce à RDVE.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/04/04/julie-tilmant/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

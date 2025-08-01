@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Santé | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/sante/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Olivier Clerc, écrivain, conférencier et formateur</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2015/03/15/olivier-clerc/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2015/03/15/olivier-clerc/#comments</comments>
+		<pubDate>Sat, 14 Mar 2015 23:22:15 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Conférences]]></category>
+		<category><![CDATA[Développement personnel]]></category>
+		<category><![CDATA[Ecologie]]></category>
+		<category><![CDATA[Ecriture]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Humanité]]></category>
+		<category><![CDATA[Santé]]></category>
+		<category><![CDATA[Spiritualité]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=3452</guid>
+		<description><![CDATA[Olivier Clerc est avant tout un <em>passeur d’histoires pour nourrir l’âme</em>. Je l'ai d’abord rencontré sans le savoir en 2009 par l’intermédiaire d’un livre écrit par Don Miguel Ruiz dont il est le traducteur en français, puis en chair et en os en 2012 lors de son atelier <em>Don du Pardon</em></a> à Vevey. ]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2015/03/15/olivier-clerc/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Samantha Dubois, thérapeute</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2015/01/11/samantha-dubois-therapeute/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2015/01/11/samantha-dubois-therapeute/#comments</comments>
+		<pubDate>Sun, 11 Jan 2015 00:54:09 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[Formation]]></category>
+		<category><![CDATA[Santé]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=3139</guid>
+		<description><![CDATA[Samantha est extraordinaire à plus d’un titre. C’est une femme qui a conscience que la baguette magique n’existe pas pour changer le monde. Et pourtant, je vous le dis, cette baguette existe bel et bien, en elle, de par le magique qu’elle met dans nos quotidiens et surtout, par l’amour qu’elle déploie, autant dans ce qu’elle est que dans ce qu’elle fait. Elle a cette capacité rare à révéler le meilleur en chacun de nous et de vivre chaque événement, du plus petit au plus grand, comme une célébration. Il y aurait encore tant à dire, mais cette fois, mes mots restent blottis dans leur pudeur.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2015/01/11/samantha-dubois-therapeute/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

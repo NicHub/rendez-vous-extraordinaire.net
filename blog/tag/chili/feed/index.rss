@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chili | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/chili/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Daisy, fille de Chachay a.k.a Ptite Mapuche</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/05/01/daisy-fille-de-chachay-a-k-a-ptite-mapuche/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/05/01/daisy-fille-de-chachay-a-k-a-ptite-mapuche/#comments</comments>
+		<pubDate>Wed, 01 May 2013 08:20:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Chili]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Spiritualité]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=1200</guid>
+		<description><![CDATA[J’ai longuement hésité sur le choix d’une personne «&#160;extra-ordinaire&#160;», tellement je trouve tous les gens qui sont dans mon cœur extra-ordinaires… Et puis, rapidement, s’est dégagé un visage. Elle est belle, douce, et surtout, très pure dans son rapport à l’autre, au monde. Il s’agit de mon amie Daisy. C’est aussi la copine de poto Kahifa, et j’espère bientôt la mère de ses enfants. Daisy a perdu sa maman il y a moins d’un an, et cette femme, Mamita, comptait beaucoup pour moi également. Ses paroles seront les bonnes, quoi qu’elle dise. Et ce pour mille et unes raisons.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/05/01/daisy-fille-de-chachay-a-k-a-ptite-mapuche/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

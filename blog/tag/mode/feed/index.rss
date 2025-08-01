@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mode | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/mode/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Josy Mermet, conseillère en image personnelle</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/10/20/josy-mermet-conseillere-en-image-personnelle/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/10/20/josy-mermet-conseillere-en-image-personnelle/#respond</comments>
+		<pubDate>Sat, 19 Oct 2013 22:10:16 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Beauté]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Mode]]></category>
+		<category><![CDATA[Relooking]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2413</guid>
+		<description><![CDATA[Josy Mermet est ma tante (la sœur de ma mère). Ayant perdu ma maman depuis pas mal d'année, Josy est devenue ma deuxième mère. Elle a une positivité incroyable. Elle a été la première personne, il y a presque 40 ans, à faire du relooking. Elle connaît la mode mieux que n'importe qui. Elle aime la famille, elle aime nous réunir tous pour faire de grands repas. Et c'est un cordon bleu exceptionnel. Elle est une femme de grande valeur.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/10/20/josy-mermet-conseillere-en-image-personnelle/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Giovanni Lo Presti, fashion designer</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/09/01/giovanni-lo-presti-fashion-designer/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/09/01/giovanni-lo-presti-fashion-designer/#comments</comments>
+		<pubDate>Sat, 31 Aug 2013 22:01:59 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Artiste]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Mode]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=1975</guid>
+		<description><![CDATA[Au travers de ses créations, Giovanni nous emmène voyager au-delà des frontières et nous permet de nous évader le temps d'un instant. Vous avez déjà dans son nom tout le prestige d’un homme extraordinaire et talentueux, un styliste inspiré et au grand cœur. Ses créations nous emmènent aux pays du plaisir des yeux, de la douceur du toucher des tissus précieux, de l’odeur de l’atelier du créateur. Un mélange de douceur, de passion à déguster sans modération. Sur un air mélodieux, il réunit les cinq sens et nous fait voyager le temps d'un instant.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/09/01/giovanni-lo-presti-fashion-designer/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Photographie | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/photographie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Thierry Vouillamoz, Photographe</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2017/03/18/thierry-vouillamoz-photographe/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2017/03/18/thierry-vouillamoz-photographe/#respond</comments>
+		<pubDate>Sat, 18 Mar 2017 14:59:29 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Photographie]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">https://rendez-vous-extraordinaire.net/?p=4901</guid>
+		<description><![CDATA[Les photographes jouent de la lumière pour capturer l’instantané. Ils se font discrétion pour sublimer le focus du moment et nous permettre des souvenirs de couleur ou de noir et de blanc. Thierry est l’un d’entre eux. ]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2017/03/18/thierry-vouillamoz-photographe/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Patricia Worochob, collagiste et photographe</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/05/16/patricia-worochob-artiste-collagiste-et-photographe/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/05/16/patricia-worochob-artiste-collagiste-et-photographe/#comments</comments>
+		<pubDate>Thu, 16 May 2013 20:40:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Artiste]]></category>
+		<category><![CDATA[Création]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Photographie]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=1359</guid>
+		<description><![CDATA[Patricia Worochob a des yeux comme d'autres ont un nez. Un sens qui a d'unique, le plaisir qu'il suscite.
+Un appareil de photo en prolongement du regard, elle pose un regard différent sur son environnement, nous appelle à voir au delà de l'apparence, à changer de perspective. 
+Elle exacerbe le beau, sublime la laideur. Elle crée de l'art avec du presque rien.
+Où qu'elle soit, quoi qu'elle fasse, elle est toujours à l'affut de saisir une singularité du quotidien. 
+Elle balaye du regard, observe, scrute, imagine, cadre, immortalise et partage dans un geste qui est extraordinaire dans l'ordinaire&#160;!]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/05/16/patricia-worochob-artiste-collagiste-et-photographe/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

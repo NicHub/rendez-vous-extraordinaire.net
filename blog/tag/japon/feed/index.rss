@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Japon | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/japon/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Jonathan Rigottier, méditant heureux</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/11/10/jonathan-rigottier-meditant-heureux/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/11/10/jonathan-rigottier-meditant-heureux/#comments</comments>
+		<pubDate>Sat, 09 Nov 2013 23:38:33 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Développement personnel]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Japon]]></category>
+		<category><![CDATA[Méditation]]></category>
+		<category><![CDATA[Spiritualité]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2645</guid>
+		<description><![CDATA[J’aimerais passer le témoin à Jonathan Rigottier, un blogueur qui se consacre à la méditation et à en partager les bienfaits qu’il y trouve. Sa vision simple et fraiche de la vie est un atout supplémentaire dans nos vies stressées.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/11/10/jonathan-rigottier-meditant-heureux/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Jean-Philippe Touzeau, écrivain et blogueur</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/10/13/jean-philippe-touzeau-ecrivain-et-blogueur/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/10/13/jean-philippe-touzeau-ecrivain-et-blogueur/#comments</comments>
+		<pubDate>Sat, 12 Oct 2013 23:37:51 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Blog]]></category>
+		<category><![CDATA[Ecriture]]></category>
+		<category><![CDATA[Etats-Unis]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Japon]]></category>
+		<category><![CDATA[Littérature]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2510</guid>
+		<description><![CDATA[C’est grâce à Twitter que Jean-Philippe a découvert <em>Rendez-vous extraordinaire</em> et c’est pas un hasard (même si c’est un joli clin d’œil de l’univers) puisque son slogan est <em>Vous êtes extraordinaire !</em> Il nous avait démasqués avant même que le site soit ouvert officiellement. Je me suis donc baladé sur son blog <a href="http://revolutionpersonnelle.com"><em>Révolution personnelle</em></a> et j’y ai découvert une perle sous la forme d’un livre au format PDF : <a href="http://revolutionpersonnelle.com/2009/12/ebook-etes-vous-une-sardine/"><em>Êtes-vous une sardine ?</em></a>. J’ai tout de suite adoré et j’ai cherché à en savoir plus sur ce Français tokyote qui blogue, qui écrit des livres pertinents et inspirants et qui sait fédérer les gens. Donc de fil en aiguille, je me suis inscrit à son site <a href="http://www.cloudbraining.com/"><em>Cloudbraining</em></a> et j’y ai découvert une communauté fort sympathique ouverte à l’entraide avec comme intérêt central l’écriture.
+Et puis je ne peux pas terminer cette présentation sans citer Trinity, sa <a href="http://www.amazon.fr/dp/B00DDTQYPK/"><em>Femme sans peur</em></a>, qui entretient un animal de compagnie plutôt inhabituel : un escargot qui répond au nom fort logique de <em>Speedy</em>. Alors merci encore, Jean-Philippe, de nous faire partager ton univers et de nous montrer que l’on peut vivre de ses rêves.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/10/13/jean-philippe-touzeau-ecrivain-et-blogueur/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

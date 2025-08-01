@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Poésie | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/poesie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Kaëm, rappeur poète</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/04/14/kaem/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/04/14/kaem/#comments</comments>
+		<pubDate>Sun, 14 Apr 2013 19:41:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Musique]]></category>
+		<category><![CDATA[Poésie]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=722</guid>
+		<description><![CDATA[Le rap ne fait pas partie de ma culture musicale et pourtant... Un jour d’octobre 2009, le dialogue entre une enfant questionnant l’adulte et un poète piquant dans sa métaphore a forcé la porte de ma curiosité. Kaëm a réussi à m’embarquer avec sa <a href="http://www.youtube.com/watch?v=PyHcPycciBE" target="_blank">machine à fabriquer les nuages</a>. Aujourd’hui il sévit au coeur des Gueules de WaB, un nom de groupe résonnant en promesse de dérision et de non-conformisme. Promesse largement tenue à l’écoute du titre <a href="http://www.youtube.com/watch?v=nRKw3CKcySo" target="_blank">Dans mon placard</a> qui vous parle de culture aéroponique de plantes dicotylédones, à la vision du clip <a href="http://www.youtube.com/watch?v=vQx-gJqNs8I" target="_blank">Le gangster et la ménagère</a> un conte en Playmobil réservé à l’adulte, ou encore <a href="http://www.youtube.com/watch?v=3-Jzvk5OZaA" target="_blank">Je suis une vieillerie</a> évoquant le temps qui prend de l’âge et assagit les révoltes. Derrière les facéties de l’artiste s’expose un homme en roue libre, scandant une perspective sur le monde que nous n’avons pas toujours de notre hauteur.
+Prenez le temps d’écouter le texte avec les images, Kaëm a ceci d’extraordinaire de nous inviter en poésie au cinéma de la vie…]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/04/14/kaem/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

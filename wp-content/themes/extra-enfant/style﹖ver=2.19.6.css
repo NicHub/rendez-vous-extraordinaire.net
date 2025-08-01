@@ -1,0 +1,46 @@
+/*
+Theme Name:     Extra Enfant
+Description:    Thème enfant d'Extra fourni par ElegantSchool
+Author:         Nicolas Richer
+Template:       Extra
+Version:        1.2
+*/
+
+/*
+Rajoutez vos règles de CSS personnalisé ci-dessous
+*/
+
+
+
+#footer-info a {
+  font-weight: 500;
+  color: inherit;
+}
+
+
+/*
+Taille des étiquettes et minuscule
+*/
+
+.et_pb_widget.widget_tag_cloud a {
+  text-transform: lowercase!important;
+}
+
+#tag_cloud-3 .tagcloud a {
+  text-transform: lowercase !important;
+}
+
+.et_pb_widget .widgettitle {
+  background: #681848;
+}
+
+
+blockquote
+{
+  font-style: normal;
+  font-size: 14px;
+  margin-left: 32px;
+  font-family: Consolas, "Times New Roman", Verdana;
+  border-left: 4px solid #CCC;
+  padding-left: 8px;
+}

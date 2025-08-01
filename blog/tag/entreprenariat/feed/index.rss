@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Entreprenariat | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/entreprenariat/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Bertrand Bitz, chanteur &#038; entrepreneur</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2017/03/10/bertrand-bitz-chanteur-entrepreneur/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2017/03/10/bertrand-bitz-chanteur-entrepreneur/#comments</comments>
+		<pubDate>Fri, 10 Mar 2017 21:53:53 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Entreprenariat]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Musique]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">https://rendez-vous-extraordinaire.net/?p=4829</guid>
+		<description><![CDATA[Bertrand est un passionné au grand coeur qui est l'incarnation de ceux qui rêvent la vie et vivent leurs rêves ! Musicien de talent, son second opus (White Spirit Polaroïd) met en mots ses maux... et ses guérisons.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2017/03/10/bertrand-bitz-chanteur-entrepreneur/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Patrick Delarive, entrepreneur « au cœur » des affaires</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2015/03/01/patrick-delarive-un-entrepreneur-au-coeur-des-affaires/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2015/03/01/patrick-delarive-un-entrepreneur-au-coeur-des-affaires/#respond</comments>
+		<pubDate>Sat, 28 Feb 2015 23:22:07 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Ecriture]]></category>
+		<category><![CDATA[Entreprenariat]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Lausanne]]></category>
+		<category><![CDATA[Producteur]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=3392</guid>
+		<description><![CDATA[Producteur de Bastian Baker, investisseur dans Becurious.tv, créateur du centre de formation D.Academy, promoteur immobilier, conférencier, chargé de cours HEC, chroniqueur radio et presse, consultant économique, écrivain,&#160;etc. ]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2015/03/01/patrick-delarive-un-entrepreneur-au-coeur-des-affaires/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pascal Meyer, loutre in chief</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/09/29/pascal-meyer-loutre-in-chief/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/09/29/pascal-meyer-loutre-in-chief/#respond</comments>
+		<pubDate>Sun, 29 Sep 2013 00:02:34 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[E-commerce]]></category>
+		<category><![CDATA[Entreprenariat]]></category>
+		<category><![CDATA[Geek]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2316</guid>
+		<description><![CDATA[Peu de gens connaissent son nom. Pourtant, tout geek suisse romand qui se respecte a au moins une fois dans sa vie craqué pour l'offre du jour, à prix cassé, limitée, forcément indispensable, de <a href="http://www.qoqa.ch" target="_blank">QoQa.ch</a> ! La présentation du produit est un sketch à lui tout seul, à l'image de toute la communication de l'entreprise, vous en avez un exemple <a href="http://www.qoqa.ch/fr/page/policy" target="_blank">ici</a>.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/09/29/pascal-meyer-loutre-in-chief/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

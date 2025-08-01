@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Danse | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/danse/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Stéphanie Muret Pontieux, danseuse</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/07/28/stephanie-muret-pontieux-danseuse/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/07/28/stephanie-muret-pontieux-danseuse/#comments</comments>
+		<pubDate>Sat, 27 Jul 2013 22:35:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Artiste]]></category>
+		<category><![CDATA[Création]]></category>
+		<category><![CDATA[Danse]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Musique]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=1973</guid>
+		<description><![CDATA[Elle est ma femme. Elle est une grande danseuse et chorégraphe, même si elle ne le sait pas encore. Elle est la douceur et la gentillesse même. C’est une passionnée de danse, musique et création. Elle m’aide vraiment chaque jour à me surpasser. Elle est mon âme et aussi mon <i>hombre</i>.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/07/28/stephanie-muret-pontieux-danseuse/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

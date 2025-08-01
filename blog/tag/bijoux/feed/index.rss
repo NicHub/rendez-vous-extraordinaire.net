@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bijoux | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/bijoux/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Angélique Duprouilh, créatrice de Com’ je veux</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/12/29/angelique-duprouilh-creatrice-de-com-je-veux/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/12/29/angelique-duprouilh-creatrice-de-com-je-veux/#comments</comments>
+		<pubDate>Sat, 28 Dec 2013 22:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Animation]]></category>
+		<category><![CDATA[Bijoux]]></category>
+		<category><![CDATA[Création]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[France]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2813</guid>
+		<description><![CDATA[Des ailes cachées dans l'homophonie de son prénom est innée sa liberté. Libre de ses envies, de ses rêves, de ses folies, même si parfois le destin lui joue la partition rebelle pour une vie plus rock'&#160;n'&#160;roll. Mais des ailes, cela vous permet de vous relever, de s'élever et de s'envoler vers… la mer !]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/12/29/angelique-duprouilh-creatrice-de-com-je-veux/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Myriam Paramelle, créatrice de bijoux et peintre</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/08/25/myriam-paramelle-creatrice/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/08/25/myriam-paramelle-creatrice/#comments</comments>
+		<pubDate>Sat, 24 Aug 2013 22:45:38 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Artiste]]></category>
+		<category><![CDATA[Bijoux]]></category>
+		<category><![CDATA[Création]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Peinture]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2054</guid>
+		<description><![CDATA[Myriam Paramelle, alias « Malyzarie » est une créatrice de bijoux à base de métaux hors pair. Elle est capable de répondre à toutes mes folies et de les transformer en objets uniques, qui me ressemblent. J’admire son savoir-faire. Elle est également douée avec les pinceaux, en témoigne l’un de ses tableaux que j’ai chez moi. Il m'a toutefois fallu user de malice pour lui faire admettre que peut-être elle n'était pas trop "ordinaire". ]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/08/25/myriam-paramelle-creatrice/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

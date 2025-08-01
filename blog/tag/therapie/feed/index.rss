@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Thérapie | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/therapie/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Marie Noelle Urech, écrivain, exploratrice des mondes invisibles</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2015/05/10/marie-noelle-urech-consoler-ecrivain-exploratrice-des-mondes-invisibles/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2015/05/10/marie-noelle-urech-consoler-ecrivain-exploratrice-des-mondes-invisibles/#respond</comments>
+		<pubDate>Sat, 09 May 2015 22:09:43 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Ecriture]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[Humanité]]></category>
+		<category><![CDATA[Italie]]></category>
+		<category><![CDATA[Psychologie]]></category>
+		<category><![CDATA[Thérapie]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=3795</guid>
+		<description><![CDATA[Marie Noelle Urech est counselor et superviseur de la Méthode Simonton en Italie. C’est une femme tout à fait extraordinaire, astrologue, écrivain, chercheuse, thérapeute enseignante. ]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2015/05/10/marie-noelle-urech-consoler-ecrivain-exploratrice-des-mondes-invisibles/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Bernadette Abegglen-Verazzi, psychologue voyageuse</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2015/03/22/bernadette-abegglen-verazzi-psychotherapeute-voyageuse/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2015/03/22/bernadette-abegglen-verazzi-psychotherapeute-voyageuse/#comments</comments>
+		<pubDate>Sat, 21 Mar 2015 22:01:01 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Femme]]></category>
+		<category><![CDATA[Humanitaire]]></category>
+		<category><![CDATA[Humanité]]></category>
+		<category><![CDATA[Italie]]></category>
+		<category><![CDATA[Monde]]></category>
+		<category><![CDATA[Psychologie]]></category>
+		<category><![CDATA[Spiritualité]]></category>
+		<category><![CDATA[Suisse]]></category>
+		<category><![CDATA[Thérapie]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=3476</guid>
+		<description><![CDATA[Je passe le témoin à Babette. Elle fait partie des rencontres extraordinaires lors d’un voyage fabuleux en Toscane. Une femme lumineuse et souriante, qui partage dans l’abondance ses connaissances, ses expériences et son amour autour d’elle.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2015/03/22/bernadette-abegglen-verazzi-psychotherapeute-voyageuse/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

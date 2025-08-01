@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Compositeur | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/compositeur/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>PASCAL, auteur-compositeur-interprète</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/09/22/pascal-auteur-compositeur-interprete/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/09/22/pascal-auteur-compositeur-interprete/#comments</comments>
+		<pubDate>Sat, 21 Sep 2013 22:11:42 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Auteur]]></category>
+		<category><![CDATA[Compositeur]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Interprète]]></category>
+		<category><![CDATA[Musique]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2179</guid>
+		<description><![CDATA[Auteur compositeur interprète, fervent défenseur de la chanson française, Pascal va vous embarquer dans l'univers magnifique du romantisme.
+Magicien et génie des mots, des sons, des tempos... quel talent d'écriture extra-ordinaire, sans oublier son côté profondement humain, un des êtres les plus attachant que j ai eu la chance de rencontrer... A vous de le découvrir...]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/09/22/pascal-auteur-compositeur-interprete/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

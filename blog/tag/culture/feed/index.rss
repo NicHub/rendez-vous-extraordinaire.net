@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Culture | Rendez-vous extraordinaire</title>
+	<atom:link href="https://rendez-vous-extraordinaire.net/blog/tag/culture/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rendez-vous-extraordinaire.net</link>
+	<description>Quand l&#039;extraordinaire des uns met en lumière le merveilleux des autres !</description>
+	<lastBuildDate>Mon, 27 Nov 2023 11:14:23 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.22</generator>
+	<item>
+		<title>Christophe Vauthey, consul, cinéaste et auteur</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2015/01/04/christophe-vauthey/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2015/01/04/christophe-vauthey/#comments</comments>
+		<pubDate>Sun, 04 Jan 2015 00:25:13 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Cinéma]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Ecriture]]></category>
+		<category><![CDATA[Etas-Unis]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Monde]]></category>
+		<category><![CDATA[Suisse]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2871</guid>
+		<description><![CDATA[Christophe est consul général adjoint en charge des affaires culturelles de la Confédération suisse à Rio de Janeiro. Voilà un titre sur carte de visite à prononcer en un souffle, pour laisser présager d’une histoire de vie peu banale. ]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2015/01/04/christophe-vauthey/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Arnaud Dudek, auteur</title>
+		<link>https://rendez-vous-extraordinaire.net/blog/2013/09/15/arnaud-dudek-auteur/</link>
+		<comments>https://rendez-vous-extraordinaire.net/blog/2013/09/15/arnaud-dudek-auteur/#comments</comments>
+		<pubDate>Sat, 14 Sep 2013 22:01:51 +0000</pubDate>
+		<dc:creator><![CDATA[Rosemonde]]></dc:creator>
+				<category><![CDATA[Les portraits]]></category>
+		<category><![CDATA[Culture]]></category>
+		<category><![CDATA[Ecriture]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Homme]]></category>
+		<category><![CDATA[Littérature]]></category>
+
+		<guid isPermaLink="false">http://rendez-vous-extraordinaire.net/?p=2202</guid>
+		<description><![CDATA[Les plus jolies découvertes sont souvent l'oeuvre d'un hasard facétieux. C'est lors de lectures pour un jury littéraire que je suis tombée sous le charme de la plume d'Arnaud Dudek. Parmi de multiples romans qui ne font pas forcément partie de mon style de lecture habituel, l'un d'eux s'est largement démarqué du lot, je vous laisse deviner de qui il était.
+Moi qui aime les mots, j'ai redécouvert une façon de lire, de vivre l'histoire. J'ai aimé me perdre dans le rythme de ses phrases, comme dans un souffle que l'on retient ou non. J'y suis restée suspendue jusqu'au dernier mot, comme une marionnette que l'on guide à son envie. Délicieuse sensation que d'être le "jouet" d'un auteur.
+Après avoir été emballée par la plume de mon tortionnaire de quelques heures, me voilà ravie de découvrir à présent l'homme simple et humble qui se cache derrière.]]></description>
+		<wfw:commentRss>https://rendez-vous-extraordinaire.net/blog/2013/09/15/arnaud-dudek-auteur/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>
